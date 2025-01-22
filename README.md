@@ -15,3 +15,14 @@
 - Triển khai thành công các endpoint với Minimal APIs và thực hiện được các thao tác CRUD cơ bản.
 - Sử dụng Swagger để kiểm thử và hiển thị chi tiết API tại `https://localhost:5152/swagger/index.html`.
 - Tạo ứng dụng API tối giản, dễ mở rộng, phù hợp với các hệ thống microservices.
+
+1. (GET) Lấy danh sách tất cả công việc - Lấy danh sách công việc hoàn thành - Lấy thông tin chi tiết một công việc
+   ![Alt text](https://github.com/SOA-Excercises-Vo-Minh-Phuc/MINIMAL_API/blob/main/get.png)
+
+2. (POST) Thêm một công việc 
+   ![Alt text](https://github.com/SOA-Excercises-Vo-Minh-Phuc/MINIMAL_API/blob/main/post.png)
+
+3. (DELETE) Xóa một công việc
+   ![Alt text](https://github.com/SOA-Excercises-Vo-Minh-Phuc/MINIMAL_API/blob/main/delete.png)
+4. (PUT) Cập nhật thông tin công việc 
+   ![Alt text](https://github.com/SOA-Excercises-Vo-Minh-Phuc/MINIMAL_API/blob/main/put.png)
